@@ -1,6 +1,6 @@
 # Vanguard C4 Aircraft Assets
 
-## Protected 3D Assets — Not Open Source
+## Protected 3D Assets — Not Open Source    ☕ **[Support my work on Buy Me a Coffee](https://buymeacoffee.com/VANGUARDC4)**
 
 The `.glb` and related 3D asset files distributed through this repository are proprietary and are not open-source.
 
